@@ -1,6 +1,6 @@
 # CamCount-Test-Data-Generator
 
-The test data generator, which is used to ensure/prove that the iOS app can read and display data in real-time. It is also a way to update information in the database.
+This is the test data generator for the CamCount project. This program is used to ensure/prove that the iOS app can read and display data in real-time. It is also a way to update information in the database.
 
 **The test data generator was built using Google Colab. The link to the program is below.**
 
